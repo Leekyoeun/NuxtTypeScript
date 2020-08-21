@@ -1,0 +1,19 @@
+{
+  "name": "nuxttypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt-ts",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/eslint-config-typescript": "^3.0.0",
+    "D": "^1.0.0"
+  }
+}
